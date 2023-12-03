@@ -1,0 +1,7 @@
+{
+  "name": "tiny-dinos-onchain",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.19.1"
+  }
+}
